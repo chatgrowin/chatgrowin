@@ -9,3 +9,7 @@ ChatGrow helps businesses organize customer conversations, manage leads and coor
 - Targeted campaigns and customer engagement
 
 [Visit our website](https://chatgrow.in) · [Open ChatGrow](https://app.chatgrow.in)
+
+## Developer examples
+
+[Google Sheets → ChatGrow contacts](https://github.com/chatgrowin/chatgrow-google-sheets) — a Google Apps Script example for importing reviewed contacts, with setup instructions, duplicate guards and 28 local tests. **Preview: live API validation pending.**
